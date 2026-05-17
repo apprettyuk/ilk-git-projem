@@ -4,4 +4,8 @@ Bugun Git ogreniyorum
 branch sistemi harika 
 Branch sistemi harika 
 MASTER SATIRI 
+<<<<<<< HEAD
 MASTER ICIN FARKLI SATIR 
+=======
+BRANCH SATIRI 
+>>>>>>> conflict-test
