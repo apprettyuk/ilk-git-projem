@@ -2,3 +2,4 @@ Ugur
 KOK 
 Bugun Git ogreniyorum 
 branch sistemi harika 
+Branch sistemi harika 
